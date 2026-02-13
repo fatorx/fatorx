@@ -5,9 +5,9 @@
 
 ### 💫  Liitle Bit More About Me
 
-- 😄 I'm a big fan of comics and science fiction. 
-- 🌱 I'm currently learning AI, Distributed systems and microservices
-- 💬 Ask me about PHP and Laminas and Python and FastAPI
+- 😄 I'm a big fan of comics and science fiction 
+- 🌱 Currently, I am focusing on AI, distributed systems, and microservices
+- 💬 Ask me about PHP, Python and Node.JS
 - 📫 How to reach me? fabiosmendes.dev@gmail.com
 
 ### 👥 Connect With Me
