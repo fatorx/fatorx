@@ -1,7 +1,7 @@
 
 # Hi there 👋, My name is Fabio
 
- ✨ I'm backend developer and a continuous learning enthusiast
+ ✨ I'm fullstack developer and a continuous learning enthusiast
 
 ### 💫  Liitle Bit More About Me
 
