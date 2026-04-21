@@ -7,7 +7,7 @@
 
 - 😄 I'm a big fan of comics and science fiction 
 - 🌱 Currently, I am focusing on AI, distributed systems, and microservices
-- 💬 Ask me about PHP, Python and Node.JS
+- 💬 Ask me about Python, PHP and Node.JS
 - 📫 How to reach me? fabiosmendes.dev@gmail.com
 
 ### 👥 Connect With Me
